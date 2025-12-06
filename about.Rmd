@@ -1,0 +1,39 @@
+
+---
+title: "About Me"
+
+---
+
+## Background & Education
+
+I am a student at Vancouver Island University with interests in business management. I currently work with both professional and non-profit soccer clubs to help create organized, player-centered, and community-driven environments. I currently serve on the Board of Directors for a youth soccer club and work as the First Team Operations Coordinator for a professional team.
+
+Use the navigation bar at the top of the page to learn more **Skills & Focus Areas** me or explore my **Projects**
+
+## Technical Skills & Tools
+
+My skills and focus are centered around operations and logistics coordination, clear communication with stakeholders and parents, and event and matchday management. I’m experienced in project planning and administration, supporting youth sport programs, and bringing strong problem-solving skills and attention to detail into everything I do.
+
+Use the navigation bar at the top of the page to learn more **About** me or explore my **Projects**.
+
+## Education
+
+**VIU** - E-Management Program  
+*Expected Graduation: [2027]*
+
+Relevant Coursework:
+
+- Data Analysis for E-Management
+- Business Statistics
+- Information Systems
+
+## Contact
+
+Feel free to connect with me:
+
+- Email: [annaclairehallam999@gmail.com](mailto:annaclairehallam999@gmail.com)
+
+
+---
+
+[← Back to Home](index.html)
